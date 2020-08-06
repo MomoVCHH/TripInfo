@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gold">#b1ae63</color>
+    <color name="lightGreen">#64ffe4</color>
+    <color name="veryLightGreen">#e6fffa</color>
+    <color name="veryLightGray">#f1f1f1</color>
+    <color name="lightGray">#e4e4e4</color>
+    <color name="violete">#8673a1</color>
+
+
+
+</resources>
